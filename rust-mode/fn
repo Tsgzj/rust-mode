@@ -3,5 +3,5 @@
 # key: fn
 # --
 fn ${1:name_of_function} ($3) {
-    ${2:code}
+    $2
 }
